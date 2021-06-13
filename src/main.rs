@@ -1,4 +1,4 @@
 
 fn main() {
-    println!("hello wrold123");
+    println!("hello ws rold123");
 }
